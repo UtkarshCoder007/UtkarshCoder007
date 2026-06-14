@@ -5,7 +5,7 @@ I am a Computer Science and Design student at Dayananda Sagar College of Enginee
 - 🚀 Currently focusing on: High-concurrency systems, Event-Driven Architectures, and advanced RAG pipelines.
 - 🛠️ Deeply passionate about: Java, Spring Boot, and AI Engineering.
 - 📬 Reach me at: utkarsh.prgmr@gmail.com
-- 🔗 Connect with me: [LinkedIn](YOUR_LINKEDIN_URL) | [LeetCode](YOUR_LEETCODE_URL)
+- 🔗 Connect with me: [LinkedIn](www.linkedin.com/in/utkarsh-jha-678254298) | [LeetCode](https://leetcode.com/u/darkchamp007)
 
 ---
 
